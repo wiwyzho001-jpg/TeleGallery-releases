@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.wiwydrop.telegallery",
-  "versionCode": 20,
-  "versionName": "0.1.0-alpha20",
+  "versionCode": 21,
+  "versionName": "0.1.0-alpha21",
   "channel": "alpha",
   "abi": "arm64-v8a",
   "minSdk": 29,
   "apk": {
-    "name": "TeleGallery-0.1.0-alpha20-arm64.apk",
-    "url": "https://github.com/wiwyzho001-jpg/TeleGallery-releases/releases/download/v0.1.0-alpha20/TeleGallery-0.1.0-alpha20-arm64.apk",
+    "name": "TeleGallery-0.1.0-alpha21-arm64.apk",
+    "url": "https://github.com/wiwyzho001-jpg/TeleGallery-releases/releases/download/v0.1.0-alpha21/TeleGallery-0.1.0-alpha21-arm64.apk",
     "sizeBytes": 31904515,
-    "sha256": "6358ebfe0fcc6d47a189baa8077b6f8a6270b4f79eabdca4d81819d8a67bcfbb",
+    "sha256": "399d44aeb5321b759c0e07f493a44b9486dac20ffbc29febf255022bde7c8652",
     "signingCertificateSha256": "69bec04a82e7170b2d97b48e6a57fe883173db10e9fd3c9e7905bb69b887a15c"
   },
-  "sourceCommit": "4962f23c04f18502e8dd140e7c0a94ef4dd4d492"
+  "sourceCommit": "25a7d1f"
 }
